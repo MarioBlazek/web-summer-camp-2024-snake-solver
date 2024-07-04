@@ -29,8 +29,6 @@ This is a Symfony command that submits Snake game results to the API without the
    composer install
    ```
 
-3. Run and profit:
-
 ## Usage
 
 Run the Symfony console command:
